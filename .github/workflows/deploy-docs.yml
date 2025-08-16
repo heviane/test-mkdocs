@@ -1,5 +1,4 @@
 name: Deploy Documentation to GitHub Pages
-
 on:
   # Executa em pushes para a branch principal
   push:
