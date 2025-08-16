@@ -8,36 +8,32 @@ Bem-vindo à central de documentação técnica do projeto **ecommerce-microserv
 
 Navegue pelas seções abaixo para encontrar as informações que você precisa para começar a trabalhar no projeto.
 
-<div class="grid cards" markdown>
+### 📄 Especificação de Requisitos
 
-- #### 📄 Especificação de Requisitos
+Entenda os objetivos, funcionalidades e requisitos técnicos que norteiam o desenvolvimento do sistema.
 
-    Entenda os objetivos, funcionalidades e requisitos técnicos que norteiam o desenvolvimento do sistema.
+[Ver Requisitos](especificacao-requisitos-ERS.md){ .md-button }
 
-    [Ver Requisitos](especificacao-requisitos-ERS.md){ .md-button }
+---
 
-    ---
+### 🗺️ Roadmap do Projeto
 
-- #### 🗺️ Roadmap do Projeto
+Veja os planos futuros, as próximas features e as melhorias planejadas para o projeto a curto e longo prazo.
 
-    Veja os planos futuros, as próximas features e as melhorias planejadas para o projeto a curto e longo prazo.
+[Consultar Roadmap](ROADMAP.md){ .md-button }
 
-    [Consultar Roadmap](ROADMAP.md){ .md-button }
+---
 
-    ---
+### 🤝 Como Contribuir
 
-- #### 🤝 Como Contribuir
+Quer ajudar? Leia nosso guia de contribuição para saber como reportar bugs, sugerir melhorias e submeter código.
 
-    Quer ajudar? Leia nosso guia de contribuição para saber como reportar bugs, sugerir melhorias e submeter código.
+[Ver Guia de Contribuição](CONTRIBUTING.md){ .md-button }
 
-    [Ver Guia de Contribuição](CONTRIBUTING.md){ .md-button }
+---
 
-    ---
+### 🏛️ Decisões de Arquitetura (ADRs)
 
-- #### 🏛️ Decisões de Arquitetura (ADRs)
+Entenda o "porquê" por trás das nossas escolhas técnicas. Aqui registramos as decisões importantes e seu contexto.
 
-    Entenda o "porquê" por trás das nossas escolhas técnicas. Aqui registramos as decisões importantes e seu contexto.
-
-    [Acessar ADRs](adr/0001-record-architectural-decisions.md){ .md-button }
-
-</div>
+[Acessar ADRs](adr/0001-record-architectural-decisions.md){ .md-button }
