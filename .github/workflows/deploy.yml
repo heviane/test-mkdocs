@@ -1,0 +1,21 @@
+name: Deploy MkDocs site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # Gatilho para rodar a action
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+      - name: Install dependencies
+        run: pip install mkdocs-material mkdocs-awesome-pages-plugin
+      - name: Deploy
+        run: mkdocs gh-deploy --force
