@@ -6,4 +6,3 @@ O API Gateway atua como um ponto de entrada único para todos os clientes. Ele s
 
 - Roteamento de Requisições
 - Autenticação e Autorização
-

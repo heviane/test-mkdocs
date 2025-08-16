@@ -2,7 +2,7 @@
 
 API de microsserviços de e-commerce altamente escalável construída com .NET Core, projetada para gerenciar estoque e vendas de forma eficiente.
 
-## Sobre o Projeto
+## ℹ️ Sobre o Projeto
 
 O projeto consiste em uma aplicação com arquitetura de microserviços para gerenciamento de estoque de produtos e vendas em uma plataforma de e-commerce.
 
