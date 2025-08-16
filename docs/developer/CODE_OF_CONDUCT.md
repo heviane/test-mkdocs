@@ -1,4 +1,4 @@
-# 📜 Código de Conduta do Contribuidor
+# Código de Conduta do Contribuidor
 
 ## Nosso Compromisso
 

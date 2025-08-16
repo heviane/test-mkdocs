@@ -1,4 +1,4 @@
-# 🤝 Como Contribuir
+# Como Contribuir
 
 Olá, contribuidor(a). Ficamos muito felizes com seu interesse em contribuir com o projeto **E-commerce Microservices API**, sua participação é muito bem-vinda!
 

@@ -24,4 +24,4 @@ A comunicação entre os serviços é feita via API Gateway, com eventos assínc
 
 ## 🥇 Licença
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./developer/LICENSE.md) para mais detalhes.
