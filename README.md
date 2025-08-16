@@ -2,7 +2,7 @@
 
 [![Deploy Documentation](https://github.com/heviane/ecommerce-microservices/actions/workflows/deploy-docs.yml/badge.svg)](https://github.com/heviane/ecommerce-microservices/actions/workflows/deploy-docs.yml)
 
-API de microsserviços de e-commerce altamente escalável construída com .NET Core, projetada para gerenciar estoque e vendas de forma eficiente.
+API de microsserviços para e-commerce altamente escalável construída com .NET Core, projetada para gerenciar estoque e vendas de forma eficiente.
 
 ## 📖 Documentação
 
