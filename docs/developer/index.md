@@ -12,7 +12,7 @@ Navegue pelas seções abaixo para encontrar as informações que você precisa 
 
 Entenda os objetivos, funcionalidades e requisitos técnicos que norteiam o desenvolvimento do sistema.
 
-[Ver Requisitos](especificacao-requisitos-ERS.md){ .md-button }
+[Ver Requisitos](especificacao-requisitos-ERS.md)
 
 ---
 
@@ -20,7 +20,7 @@ Entenda os objetivos, funcionalidades e requisitos técnicos que norteiam o dese
 
 Veja os planos futuros, as próximas features e as melhorias planejadas para o projeto a curto e longo prazo.
 
-[Consultar Roadmap](ROADMAP.md){ .md-button }
+[Consultar Roadmap](ROADMAP.md)
 
 ---
 
@@ -28,7 +28,7 @@ Veja os planos futuros, as próximas features e as melhorias planejadas para o p
 
 Quer ajudar? Leia nosso guia de contribuição para saber como reportar bugs, sugerir melhorias e submeter código.
 
-[Ver Guia de Contribuição](CONTRIBUTING.md){ .md-button }
+[Ver Guia de Contribuição](CONTRIBUTING.md)
 
 ---
 
@@ -36,4 +36,4 @@ Quer ajudar? Leia nosso guia de contribuição para saber como reportar bugs, su
 
 Entenda o "porquê" por trás das nossas escolhas técnicas. Aqui registramos as decisões importantes e seu contexto.
 
-[Acessar ADRs](adr/0001-record-architectural-decisions.md){ .md-button }
+[Acessar ADRs](adr/0001-record-architectural-decisions.md)

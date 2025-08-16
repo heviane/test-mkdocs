@@ -23,11 +23,7 @@ O sistema será composto por dois microserviços:
 
 ## Diagrama
 
-<div align="center">
-  <a href="https://github.com/heviane/templates-for-projects">
-    <img src="./images/arquitetura.png" alt="Diagrama de Arquitetura">
-  </a>
-</div>
+[![Diagrama de Arquitetura](./images/arquitetura.png)](https://github.com/heviane/test-mkdocs)
 
 ## Arquitetura Proposta
 
