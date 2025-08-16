@@ -1,7 +1,6 @@
 title: Home
 nav:
   - Home: index.md
-  - Guias de Projetos: guides
-  - Guias de Estudos: courses
-  - Guias de Testes: testes
+  - Guia do Desenvolvedor: developer
+  - Guia do Usuário: user-guide
   - ...
