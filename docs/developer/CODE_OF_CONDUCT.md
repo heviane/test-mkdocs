@@ -34,7 +34,7 @@ Este Código de Conduta se aplica tanto nos espaços do projeto quanto em espaç
 
 ## Aplicação
 
-Casos de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser relatados entrando em contato com a equipe do projeto em **heviane@gmail.com**. Todas as queixas serão revistas e investigadas e resultarão em uma resposta considerada necessária e apropriada às circunstâncias. A equipe do projeto é obrigada a manter a confidencialidade em relação ao relator de um incidente. Mais detalhes de políticas de aplicação específicas podem ser postados separadamente.
+Casos de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser relatados entrando em contato com a equipe do projeto em **[heviane@gmail.com](heviane@gmail.com)**. Todas as queixas serão revistas e investigadas e resultarão em uma resposta considerada necessária e apropriada às circunstâncias. A equipe do projeto é obrigada a manter a confidencialidade em relação ao relator de um incidente. Mais detalhes de políticas de aplicação específicas podem ser postados separadamente.
 
 Os mantenedores do projeto que não seguirem ou aplicarem o Código de Conduta de boa fé podem enfrentar repercussões temporárias ou permanentes, conforme determinado por outros membros da liderança do projeto.
 

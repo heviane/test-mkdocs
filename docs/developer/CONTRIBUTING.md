@@ -2,7 +2,7 @@
 
 Olá, contribuidor(a). Ficamos muito felizes com seu interesse em contribuir com o projeto **E-commerce Microservices API**, sua participação é muito bem-vinda!
 
-Ao participar, você concorda em seguir nosso [Código de Conduta](./CODE_OF_CONDUCT.md). É importante notar também que todas as contribuições que você fizer serão disponibilizadas sob a [Licença MIT](./LICENSE) do projeto.
+Ao participar, você concorda em seguir nosso [Código de Conduta](./CODE_OF_CONDUCT.md). É importante notar também que todas as contribuições que você fizer serão disponibilizadas sob a [Licença MIT](./LICENSE.md) do projeto.
 
 ## 🐞 Reportando Bugs
 
