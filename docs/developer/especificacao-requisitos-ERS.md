@@ -1,8 +1,8 @@
-# Projeto: E-commerce Microservices API (.NET Core)
+# Especificação de Requisitos de Software  (ERS)
 
-Sistema de Gerenciamento de Estoque e Vendas (Microserviços).
+Sistema de Gerenciamento de Estoque e Vendas (Microserviços) para e-commerce.
 
-## Descrição e Objetivo
+## Descrição
 
 Aplicação com arquitetura de microserviços para gerenciamento de estoque de produtos e vendas em uma plataforma de e-commerce.
 

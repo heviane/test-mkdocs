@@ -14,7 +14,7 @@ Navegue pelas seções abaixo para encontrar as informações que você precisa 
 
     Entenda os objetivos, funcionalidades e requisitos técnicos que norteiam o desenvolvimento do sistema.
 
-    [Ver Requisitos](especificacao-de-requisitos-de-software-ERS.md){ .md-button }
+    [Ver Requisitos](especificacao-requisitos-ERS.md){ .md-button }
 
     ---
 
